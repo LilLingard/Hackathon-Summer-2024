@@ -4,9 +4,12 @@ Best team in the 2024 Hackathon❤️
 The time zone will be assumed to be Eastern time.
 
 Currently, 15/49 teams have a positive MCC.
+
 ## Meeting Plans
-The next meeting will be on **08/15/24 10 P.M. (eastern time)**
+The next meeting will be on **08/17/24 10 P.M. (eastern time)**
 ## Meeting Summary
+### 8/16 (Morning)
+* **Finished modeling using Gradient Boosting and submitted the first prediction**
 ### 8/15(Morning)
 * **Matthew Correlation Coefficient**
 
@@ -39,11 +42,7 @@ Example: chr1-89196985-89201657 (chromosome location-peak start unit-peak end un
 
 The crucial part of the gene should fall into the peak to make the peak and the gene correlate.
 ## Tasks
-Extract the 300 rows of ATAC data that appear in the training data by 8/16 at 10 A.M. If we cannot come up with an easier way, here is the brute force assignment:
-* Ciarrah: 1-100
-* Gary: 101-200
-* Jeana: 201-300
-
+Come back tomorrow after seeing the score and then we can discuss the next steps. 
 
 # University of Rochester Biomedical Data Science Hackathon Summer 2024
 Welcome to the landing page for the hackathon. The data are now released. All important information will appear here. Please make sure each individual competing on your team is fully registered. To compete for a prize, you must supply your University of Rochester e-mail address. All teams scoring better than random will receive a participation prize. 1st and 2nd place winning teams in each division will get a cash prize (see below).
