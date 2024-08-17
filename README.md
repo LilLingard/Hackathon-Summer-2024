@@ -3,7 +3,10 @@ Best team in the 2024 Hackathon❤️
 ## Announcements
 The time zone will be assumed to be Eastern time.
 
-Currently, 15/49 teams have a positive MCC.
+Currently, 18/51 teams have a positive MCC.
+
+
+We are ranked 6/51.
 
 ## Meeting Plans
 The next meeting will be on **08/17/24 10 P.M. (eastern time)**
